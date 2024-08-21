@@ -1,7 +1,5 @@
 export default function App() {
   return (
-    <main className="relative w-full h-screen flex items-center justify-center p-12">
-
-    </main>
+    <main className="relative w-full h-screen flex items-start md:items-center justify-center px-4 py-10"></main>
   );
 }
